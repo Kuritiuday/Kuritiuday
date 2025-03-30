@@ -1,15 +1,36 @@
 - 👋 Hi, I’m @Kuritiuday
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested to work in your Company.
+- 💞️ I’m looking to collaborate with you
+- 📫 How to reach me - kuritiudaysai@gmail.com
+- ⚡ Fun fact: I am still a 3rd year Student
 
 <!---
 Kuritiuday/Kuritiuday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+🌸 Iris Flower Classification
+📌 Overview
+This project builds a machine learning model to classify Iris flowers into three species:
+Iris-setosa
+Iris-versicolor
+Iris-virginica
+Using sepal and petal length/width measurements, the model predicts the species with high accuracy.
+
+🔬 Dataset
+The dataset consists of 150 samples with 4 numerical features:
+Sepal Length (cm)
+Sepal Width (cm)
+Petal Length (cm)
+Petal Width (cm)
+Each sample belongs to one of three species.
+
+📊 Exploratory Data Analysis (EDA)
+Pairplots to visualize feature distributions
+Correlation heatmap to identify key features
+Feature importance analysis
+
+
 1️⃣ Data Preprocessing
 Steps Performed:
 Loading Data: Read the IRIS.csv dataset.
